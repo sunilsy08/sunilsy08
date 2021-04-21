@@ -28,7 +28,7 @@ Hi, I'm Sunil Yadav, a Full Stack Developer 🚀 from India, currently more focu
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working in Wedmegood (https://www.wedmegood.com).
+- 🔭 I’m currently working at Expedia.
 - 💬 Ask me about _Anything. Happy to help😃_.
 - 📫 How to reach me: sunilsy08@gmail.com_.
 - 😄 Pronouns: _He/Him_ 🤗.
